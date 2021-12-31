@@ -9,6 +9,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovegupta112&label=Profile%20views&color=0e75b6&style=flat" alt="lovegupta112" /> </p>
 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/lovegupta112) [![Profile](https://visitor-badge.glitch.me/badge?page_id=lovegupta112.profileviews-badge)](https://github.com/lovegupta112) [![followers](https://img.shields.io/github/followers/lovegupta112?style=social)](https://github.com/lovegupta112?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/lovegupta112))[![Repos Badge](https://badges.pufler.dev/repos/lovegupta112)](https://github.com/lovegupta112?tab=repositories)
+
+ [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/https://www.linkedin.com/in/love-gupta-b284691a2/)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovegupta112" alt="lovegupta112" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/melovegupta" target="blank"><img src="https://img.shields.io/twitter/follow/melovegupta?logo=twitter&style=for-the-badge" alt="melovegupta" /></a> </p>
