@@ -1,12 +1,11 @@
 
-<h1 align="center">
+/*<h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Guys!+👋; This is Love+here...;Glad+to+see+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there !+👋; Love+here...;Glad+to+see+you!&center=true&size=30">
   </a>
-</h1>
+</h1>*/
 
-
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
 <h1 align="center">Hi 👋, I'm Love Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
