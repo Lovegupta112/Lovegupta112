@@ -38,7 +38,7 @@
 
 ![Lovegupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovegupta112&show_icons=true&theme=radical)
 
-(https://activity-graph.herokuapp.com/graph?username=lovegupta112&theme=dracula&layout=compact&title_color=FF69B4)
+
 
 <br>
 
