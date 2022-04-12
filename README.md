@@ -44,3 +44,11 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovegupta112&layout=compact)](https://github.com/lovegupta112/github-readme-stats)
+
+
+
+<a href="https://github.com/lovegupta112/github-readme-activity-graph#gh-light-mode-only">
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=lovegupta112&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
+
+</a>
