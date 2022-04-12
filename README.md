@@ -47,8 +47,8 @@
 
 
 
-<a href="https://github.com/lovegupta112/github-readme-activity-graph#gh-light-mode-only">
+<a href="https://github.com/Lovegupta112/github-readme-activity-graph#gh-light-mode-only">
 
- <img src="https://activity-graph.herokuapp.com/graph?username=lovegupta112&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=lovegupta112&theme=react-dark&area=true&hide_border=true#gh-light-modeonly"  width="100%">
 
 </a>
