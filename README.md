@@ -55,7 +55,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovegupta112&layout=compact)](https://github.com/lovegupta112/github-readme-stats)
 
 
-
+[![lovegupta's GitHub stats](https://stats.quine.sh/lovegupta/github)](https://quine.sh)
 
 
 
