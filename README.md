@@ -7,9 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovegupta112&label=Profile%20views&color=0e75b6&style=flat" alt="lovegupta112" /> </p>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/lovegupta112) [![Profile](https://visitor-badge.glitch.me/badge?page_id=lovegupta112.profileviews-badge)](https://github.com/lovegupta112) [![followers](https://img.shields.io/github/followers/lovegupta112?style=social)](https://github.com/lovegupta112?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/lovegupta112))[![Repos Badge](https://badges.pufler.dev/repos/lovegupta112)](https://github.com/lovegupta112?tab=repositories)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/lovegupta112) [![Profile](https://visitor-badge.glitch.me/badge?page_id=lovegupta112.profileviews-badge)](https://github.com/lovegupta112) [![followers](https://img.shields.io/github/followers/lovegupta112?style=social)](https://github.com/lovegupta112?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/lovegupta112)
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/lovegupta112)](https://github.com/lovegupta112?tab=repositories) -->
 
- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/https://www.linkedin.com/in/love-gupta-b284691a2/)
+ [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/guptalove/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovegupta112" alt="lovegupta112" /></a> </p>
 
@@ -18,9 +19,9 @@
 
 [![@lovegupta112's Holopin board](https://holopin.me/lovegupta112)](https://holopin.io/@lovegupta112)
 
-- 🔭 I’m currently working on **My Web project .**
+- 🔭 I’m currently Learning on **WebDevelopment** and **Dsa**.
 
-- 🌱 I’m currently learning **React , PHP , MySQL , Advanced JavaScript ,Java applet and some other things about security.**
+- 🌱 I always try to learn some new things about **React , PHP , MySQL , Advanced JavaScript ,Java applet and some other things about security.**
 
 - 👯 I’m looking to collaborate on **Web site design, cyber security etc.**
 
@@ -36,7 +37,7 @@
 <a href="https://instagram.com/https://instagram.com/charmingboy_love?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/charmingboy_love?utm_medium=copy_link" height="30" width="40" /></a>
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=lovegupta112&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=lovegupta112&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%"> -->
 
 
 
