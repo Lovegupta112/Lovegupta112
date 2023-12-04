@@ -19,13 +19,13 @@
 
 [![@lovegupta112's Holopin board](https://holopin.me/lovegupta112)](https://holopin.io/@lovegupta112)
 
-- 🔭 I’m currently Learning on **WebDevelopment** and **Dsa**.
+- 🔭 I’m currently Learning on **Full Stack WebDevelopment**.
 
-- 🌱 I always try to learn some new things about **React , PHP , MySQL , Advanced JavaScript ,Java applet and some other things about security.**
+- 🌱 I always try to learn some new things about **React, NextJs, Database, Advanced JavaScript, Java applet, and some other things about security.**
 
 - 👯 I’m looking to collaborate on **Web site design, cyber security etc.**
 
-- 💬 Ask me about **React , JavaScript , cool CSS style design**
+- 💬 Ask me about **React, JavaScript.**
 
 - 📫 How to reach me **Loveguptaofficials@gmail.com**
 
