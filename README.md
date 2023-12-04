@@ -19,7 +19,7 @@
 
 [![@lovegupta112's Holopin board](https://holopin.me/lovegupta112)](https://holopin.io/@lovegupta112)
 
-- 🔭 I’m currently Learning on **Full Stack WebDevelopment**.
+- 🔭 I’m currently Learning  **Full Stack WebDevelopment**.
 
 - 🌱 I always try to learn some new things about **React, NextJs, Database, Advanced JavaScript, Java applet, and some other things about security.**
 
