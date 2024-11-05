@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
 <h1 align="center">Hi 👋, I'm Love Gupta</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovegupta112&label=Profile%20views&color=0e75b6&style=flat" alt="lovegupta112" /> </p>
 
@@ -15,6 +15,14 @@
 
  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/guptalove/)
 
+
+
+<details>	
+ <summary><b>Tech Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+</div>
+</details>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovegupta112" alt="lovegupta112" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/melovegupta" target="blank"><img src="https://img.shields.io/twitter/follow/melovegupta?logo=twitter&style=for-the-badge" alt="melovegupta" /></a> </p> -->
@@ -22,6 +30,7 @@
 <br><br><br>
 
 [![@lovegupta112's Holopin board](https://holopin.me/lovegupta112)](https://holopin.io/@lovegupta112)
+
 
 - 🔭 I’m currently Learning  **Devops** and **Web3**.
 
@@ -62,7 +71,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovegupta112&layout=compact)](https://github.com/lovegupta112/github-readme-stats)
 
 
-[![lovegupta's GitHub stats](https://stats.quine.sh/lovegupta/github)](https://quine.sh)
+[![lovegupta's GitHub stats](https://stats.quine.sh/lovegupta/github)](https://quine.sh) 
 
 
 [![lovegupta's GitHub | Dependencies](https://stats.quine.sh/lovegupta/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lovegupta)
