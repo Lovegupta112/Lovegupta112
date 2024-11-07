@@ -25,6 +25,11 @@
 </details>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovegupta112" alt="lovegupta112" /></a> </p>
 
+ 
+![Screenshot from 2024-09-04 21-49-34](https://github.com/user-attachments/assets/172bae92-4239-4181-b0f3-484b2f3854f4)
+
+
+
 <p align="left"> <a href="https://twitter.com/melovegupta" target="blank"><img src="https://img.shields.io/twitter/follow/melovegupta?logo=twitter&style=for-the-badge" alt="melovegupta" /></a> </p> -->
 
 <br><br><br>
