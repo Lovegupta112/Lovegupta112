@@ -1,6 +1,6 @@
+![Screenshot from 2024-09-04 21-49-34](https://github.com/user-attachments/assets/172bae92-4239-4181-b0f3-484b2f3854f4)
 
-
-
+<!--
 
 <h1 align="center">Hi 👋, I'm Love Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3> 
@@ -10,7 +10,7 @@
 
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/lovegupta112) 
-<!--[![Profile](https://visitor-badge.glitch.me/badge?page_id=lovegupta112.profileviews-badge)](https://github.com/lovegupta112) -->
+[![Profile](https://visitor-badge.glitch.me/badge?page_id=lovegupta112.profileviews-badge)](https://github.com/lovegupta112) 
 [![followers](https://img.shields.io/github/followers/lovegupta112?style=social)](https://github.com/lovegupta112?tab=followers) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/lovegupta112) 
  [![Repos Badge](https://badges.pufler.dev/repos/lovegupta112)](https://github.com/lovegupta112?tab=repositories) 
@@ -25,15 +25,14 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 </div>
 </div>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovegupta112" alt="lovegupta112" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovegupta112" alt="lovegupta112" /></a> </p>
 
- 
-![Screenshot from 2024-09-04 21-49-34](https://github.com/user-attachments/assets/172bae92-4239-4181-b0f3-484b2f3854f4)
+
 
 
 <br><br><br>
 
-<p align="left"> <a href="https://twitter.com/melovegupta" target="blank"><img src="https://img.shields.io/twitter/follow/melovegupta?logo=twitter&style=for-the-badge" alt="melovegupta" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/melovegupta" target="blank"><img src="https://img.shields.io/twitter/follow/melovegupta?logo=twitter&style=for-the-badge" alt="melovegupta" /></a> </p> 
 
 <br><br><br>
 
@@ -58,9 +57,10 @@
 <a href="https://instagram.com/https://instagram.com/charmingboy_love?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/charmingboy_love?utm_medium=copy_link" height="30" width="40" /></a>
 </p>
 
+-->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=lovegupta112&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%"> -->
 
-
+<!--
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -134,6 +134,7 @@
 
 [![lovegupta's GitHub | Dependencies](https://stats.quine.sh/lovegupta/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lovegupta)
 
+-->
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovegupta112&" alt="lovegupta112" /></p>
  -->
