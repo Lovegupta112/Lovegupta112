@@ -141,7 +141,7 @@
 
 <!-- ################################################ new md ########################### ---> 
 
-# ⚡ Love Gupta — Full Stack Developer & Builder of Decentralized Systems  
+# ⚡ Love Gupta — Full Stack Developer & Blockchain developer  
 > Engineering automation, crafting scalable architectures, and pushing the boundaries of web and blockchain innovation.
 
 ---
@@ -150,6 +150,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lovegupta112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Love's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovegupta112&layout=compact&theme=tokyonight&hide_border=true" alt="Love's Top Languages" />
 </div>
+
+---
+
+
+## 💼 Experience Snapshot
+- **Full Stack Developer @ Varthana Finance (Jan 2024 – Aug 2025)** — Built and optimized fintech systems using React, Nextjs, Node.js, PostgreSQL, Aws, Jenkins and Docker.  
+- **Software Developer Trainee @ MountBlue Technologies (Aug 2023 – Dec 2023)** — Worked on scalable backends and responsive UIs.  
+- **Freelance Developer (Aug 2022 – Jul 2023)** — Delivered complete solutions for startups with React, Node, and PostgreSQL.  
+- **Open Source & Blockchain Contributor (2023 – Present)** — Building dApps, CI/CD automation, and Web3 integrations.  
+
+---
+
+## 🚀 Currently Learning & Exploring
+| Area | Description | Repository |
+|---|---|---|
+| **Turbin3 Builders Program** | [Turbin3](https://x.com/solanaTurbine) — Elite Solana blockchain program specializing in Rust, TypeScript, and Web3 development. Built and deployed scalable dApps, smart contracts, and on-chain protocols on Solana’s high-performance blockchain. | [**private**] |
+| **Ackee School of Solana (Graduated)** | [Ackee Blockchain](https://x.com/AckeeBlockchain) — Completed School of Solana Season 7. Gained expertise in Anchor framework, Solana PDAs, and runtime programming. |  [**AckeeSolanaTasks**](https://github.com/Lovegupta112/ACKEE-SOS7-Program-tasks) |
+| **Web2 + Web3 Advanced Concepts** |  [100xdevs](https://x.com/100xDevs) —  A 100x journey toward mastering web2 ,devops and blockchain integration. | [**100xBetter**](https://github.com/Lovegupta112/100xbetter) |
+| **Rust & Low-level Systems** | Deep dive into Rust — async, ownership, concurrency, and system-level design. | [**Rust Learning**](https://github.com/Lovegupta112/Rust_learning) |
 
 ---
 
@@ -229,29 +248,9 @@
 ---
 
 
-## 💼 Experience Snapshot
-- **Full Stack Developer @ Varthana Finance (Jan 2024 – Aug 2025)** — Built and optimized fintech systems using React, Node.js, PostgreSQL, and Docker.  
-- **Software Developer Trainee @ MountBlue Technologies (Aug 2023 – Dec 2023)** — Worked on scalable backends and responsive UIs.  
-- **Freelance Developer (Aug 2022 – Jul 2023)** — Delivered complete solutions for startups with React, Node, and PostgreSQL.  
-- **Open Source & Blockchain Contributor (2023 – Present)** — Building dApps, CI/CD automation, and Web3 integrations.  
-
----
-
-## 🚀 Currently Learning & Exploring
-| Area | Description | Repository |
-|---|---|---|
-| **Turbin3 Builders Program** | [Turbin3](https://x.com/solanaTurbine) — Elite Solana blockchain program specializing in Rust, TypeScript, and Web3 development. Built and deployed scalable dApps, smart contracts, and on-chain protocols on Solana’s high-performance blockchain. | [**private**] |
-| **Ackee School of Solana (Graduated)** | [Ackee Blockchain](https://x.com/AckeeBlockchain) — Completed School of Solana Season 7. Gained expertise in Anchor framework, Solana PDAs, and runtime programming. |  [**AckeeSolanaTasks**](https://github.com/Lovegupta112/ACKEE-SOS7-Program-tasks) |
-| **Web2 + Web3 Advanced Concepts** | A 100x journey toward mastering backend architecture and blockchain integration. | [**100xBetter**](https://github.com/Lovegupta112/100xbetter) |
-| **Rust & Low-level Systems** | Deep dive into Rust — async, ownership, concurrency, and system-level design. | [**Rust Learning**](https://github.com/Lovegupta112/Rust_learning) |
-
----
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guptalove/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/Lovegupta112)  
-[![Email](https://img.shields.io/badge/-Email-blue?logo=gmail&logoColor=white)](mailto:loveguptaofficials@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guptalove/)  [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/Lovegupta112)  [![Email](https://img.shields.io/badge/-Email-blue?logo=gmail&logoColor=white)](mailto:loveguptaofficials@gmail.com)
 
 ---
 
