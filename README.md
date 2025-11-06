@@ -143,7 +143,12 @@
 
 # ⚡ Love Gupta — Full Stack Developer & Blockchain developer  
 > Engineering automation, crafting scalable architectures, and pushing the boundaries of web and blockchain innovation.
+> With 2+ years of experience building production systems in Web2 (Fintech & Midtech Banking), Currently i am now focusing on crafting secure, high-performance decentralized apps using Rust and Solana.
 
+<div align="center">
+ <h3>🏆 <a href="https://x.com/MeLovegupta/status/1980732244701728888" target="_blank">Hackathon Winner</a> (Rust CLI - Code Quality)<br/>
+  <br/>
+</div>
 ---
 
 <div align="center">
@@ -180,7 +185,7 @@
 | **[Axon](https://github.com/Rohan-Singla/Axon)** | A Solana micropayments solution to help small Bitcoin miners — enabling efficient reward distribution and cost-effective transactions. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) |
 | **[rustGzip](https://github.com/Lovegupta112/rustgzip-cli)** | A fast and simple command-line tool written in Rust for compressing and decompressing files — lightweight and efficient for terminal-based workflows. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
 | **[Rust Todo CLI](https://github.com/Lovegupta112/rust-todo-cli-app)** | A command-line Todo app with persistent JSON storage, showcasing structured CLI app design. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| **[Rust Order Book](https://github.com/Lovegupta112/rust-order-book)** | (In Progress) Building a high-performance order book engine — exploring concurrency and async patterns in Rust. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| **[Rust Order Book](https://github.com/Lovegupta112/rust-order-book)** | (In Progress) Building a order book — exploring concurrency and async patterns in Rust. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
 
 
 ---
@@ -193,6 +198,7 @@
 | **[Ackee School of Solana Tasks](https://github.com/Lovegupta112/ACKEE-SOS7-Program-tasks)** | Implemented programs like decentralized Twitter, on-chain vaults, and more under the Ackee School of Solana learning module. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Anchor](https://img.shields.io/badge/Anchor-blue?style=flat-square) |
 | **[Solidity Contracts](https://github.com/Lovegupta112/remix-solidity)** | A collection of Ethereum smart contracts written in Solidity — exploring DeFi and NFT use cases. | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
 
+
 ---
 
 
@@ -202,6 +208,7 @@
 | **[Cleanup Docker Containers](https://github.com/Lovegupta112/cleanup-docker-container-img)** | A GitHub Action that removes specific Docker containers/images from remote VMs. Automates cleanup and ensures clean CI/CD workflows. | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 | **[Mono Repo CI/CD](https://github.com/Lovegupta112/mono-repo-ci-cd)** | A monorepo setup using TurboRepo for testing multi-service CI/CD pipelines. | ![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=flat-square&logo=turborepo&logoColor=white) |
 | **[Chat App](https://github.com/Lovegupta112/ChatApp)** | A real-time chat app powered by Socket.io. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
+
 
 ---
 
@@ -217,6 +224,7 @@
 
 ---
 
+
 ### 🖥️ Frontend Projects (Newest → Oldest)
 | Project | Description | Technologies Used |
 |---|---|---|
@@ -229,12 +237,13 @@
 | **[MeShop Cart](https://github.com/Lovegupta112/MeShop-Cart-Website)** | A shopping site with product filters, Razorpay integration, and dynamic UI. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **[Password Generator](https://github.com/Lovegupta112/passwordGenerator)** | Generate strong, random passwords easily. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **[RPG Mystical Place](https://github.com/Lovegupta112/RPG-Mystical-Place)** | A small RPG browser game to defeat aliens blocking a town. |![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **[My Movies App](https://github.com/Lovegupta112/MyMoviesApp)** | Search and browse movies, anime, or cartoons using public APIs. |![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+<!-- | **[My Movies App](https://github.com/Lovegupta112/MyMoviesApp)** | Search and browse movies, anime, or cartoons using public APIs. |![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **[YouTube Clone](https://github.com/Lovegupta112/youtube-clone)** | A YouTube-like interface with video search and recommendations. |![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|
-
+-->
 
 
 ---
+
 
 ### 🌍 Landing Pages (Newest → Oldest)
 | Project | Description | Technologies Used |
