@@ -170,7 +170,7 @@
 ## 🚀 Currently Learning & Exploring
 | Area | Description | Repository |
 |---|---|---|
-| **Turbin3 Builders Program** | [Turbin3](https://x.com/solanaTurbine) — Elite Solana blockchain program specializing in Rust, TypeScript, and Web3 development. Built and deployed scalable dApps, smart contracts, and on-chain protocols on Solana’s high-performance blockchain. | [**Solana and Anchor Tasks**](https://github.com/Lovegupta112/Turbine3-Q4-builder-tasks) |
+| **Turbin3 Builders Program (Graduated)** | [Turbin3](https://x.com/solanaTurbine) — Elite Solana blockchain program specializing in Rust, TypeScript, and Web3 development. Built and deployed scalable dApps, smart contracts, and on-chain protocols on Solana’s high-performance blockchain. | [**Solana and Anchor Tasks**](https://github.com/Lovegupta112/Turbine3-Q4-builder-tasks) |
 | **Ackee School of Solana (Graduated)** | [Ackee Blockchain](https://x.com/AckeeBlockchain) — Completed School of Solana Season 7. Gained expertise in Anchor framework, Solana PDAs, and runtime programming. |  [**AckeeSolanaTasks**](https://github.com/Lovegupta112/ACKEE-SOS7-Program-tasks) |
 | **Web2 + Web3 Advanced Concepts** |  [100xdevs](https://x.com/100xDevs) —  A 100x journey toward mastering web2 ,devops and blockchain integration. | [**100xBetter**](https://github.com/Lovegupta112/100xbetter) |
 | **Rust & Low-level Systems** | Deep dive into Rust — async, ownership, concurrency, and system-level design. | [**Rust Learning**](https://github.com/Lovegupta112/Rust_learning) |
